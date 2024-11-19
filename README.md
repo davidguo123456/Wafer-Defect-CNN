@@ -1,1 +1,1 @@
-# Wafer-Defect-CNN
+# wafer-defect-cnn
