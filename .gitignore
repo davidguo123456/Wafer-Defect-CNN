@@ -164,3 +164,4 @@ cython_debug/
 # Dataset etc
 *.zip*
 *.pkl*
+*.pickle*
