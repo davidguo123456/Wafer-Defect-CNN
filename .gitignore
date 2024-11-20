@@ -165,3 +165,12 @@ cython_debug/
 *.zip*
 *.pkl*
 *.pickle*
+*.png*
+*.yaml
+*.txt
+*.pt
+*.tfevents*
+*.cache*
+*.jpg*
+*.npy*
+*.csv*
