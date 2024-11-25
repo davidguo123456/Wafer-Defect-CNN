@@ -175,3 +175,4 @@ cython_debug/
 *.npy*
 *.csv*
 *.pth*
+!best/*.pth*
