@@ -176,3 +176,4 @@ cython_debug/
 *.csv*
 *.pth*
 !best/*.pth*
+!requirements.txt
