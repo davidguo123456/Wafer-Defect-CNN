@@ -174,3 +174,5 @@ cython_debug/
 *.jpg*
 *.npy*
 *.csv*
+*.pth*
+!best/*.pth*
